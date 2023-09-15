@@ -1,4 +1,4 @@
-### <div align="center">Hello ! Je suis Raphaël, développeur Full Stack junior 👶</div>  
+### <div align="center">Hello ! Je suis Raphaël, développeur Web Full Stack junior 👶</div>  
   
 
 <br/>  
